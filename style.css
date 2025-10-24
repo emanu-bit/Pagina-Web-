@@ -1,0 +1,44 @@
+body{
+  background-color: rgb(115, 219, 219);
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px;
+}
+#titulo-principal{
+    color: rgb(108, 243, 198);
+    font-size: 36px;
+    text-align: center;
+}
+
+/*subtitulos*/
+h2,h3{
+    color: black;
+    margin-top: 20px;
+}
+.poster{
+    display:block;
+    margin: 20px auto;
+    border: 3px solid #000; 
+    border-radius: 10px;
+    width: 250px;
+}
+a{
+    color: aquamarine;
+    text-decoration: none;
+}
+a:houver{
+  text-decoration: underline;
+}
+ 
+footer{
+blackground-color: black;
+color:#000
+text-aling:center;
+padding: 10px;
+margin: top 30px;
+border: radius 8px;
+s
+}
+
+
+
+
